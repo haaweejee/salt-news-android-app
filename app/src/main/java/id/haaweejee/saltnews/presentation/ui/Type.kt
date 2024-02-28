@@ -1,4 +1,4 @@
-package id.haaweejee.saltnews.ui.theme
+package id.haaweejee.saltnews.presentation.ui
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

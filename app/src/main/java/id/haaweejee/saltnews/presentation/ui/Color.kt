@@ -1,4 +1,4 @@
-package id.haaweejee.saltnews.ui.theme
+package id.haaweejee.saltnews.presentation.ui
 
 import androidx.compose.ui.graphics.Color
 
